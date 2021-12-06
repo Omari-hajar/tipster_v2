@@ -16,6 +16,7 @@
 		CC90C140275C930F0017B290 /* tipster_v2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC90C13F275C930F0017B290 /* tipster_v2Tests.swift */; };
 		CC90C14A275C930F0017B290 /* tipster_v2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC90C149275C930F0017B290 /* tipster_v2UITests.swift */; };
 		CC90C14C275C930F0017B290 /* tipster_v2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC90C14B275C930F0017B290 /* tipster_v2UITestsLaunchTests.swift */; };
+		CC90C159275CAA3F0017B290 /* tipCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC90C158275CAA3F0017B290 /* tipCalculator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CC90C145275C930F0017B290 /* tipster_v2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipster_v2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CC90C149275C930F0017B290 /* tipster_v2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipster_v2UITests.swift; sourceTree = "<group>"; };
 		CC90C14B275C930F0017B290 /* tipster_v2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipster_v2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CC90C158275CAA3F0017B290 /* tipCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipCalculator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				CC90C128275C930C0017B290 /* AppDelegate.swift */,
 				CC90C12A275C930C0017B290 /* SceneDelegate.swift */,
 				CC90C12C275C930C0017B290 /* ViewController.swift */,
+				CC90C158275CAA3F0017B290 /* tipCalculator.swift */,
 				CC90C12E275C930C0017B290 /* Main.storyboard */,
 				CC90C131275C930E0017B290 /* Assets.xcassets */,
 				CC90C133275C930E0017B290 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CC90C12D275C930C0017B290 /* ViewController.swift in Sources */,
+				CC90C159275CAA3F0017B290 /* tipCalculator.swift in Sources */,
 				CC90C129275C930C0017B290 /* AppDelegate.swift in Sources */,
 				CC90C12B275C930C0017B290 /* SceneDelegate.swift in Sources */,
 			);
